@@ -5,4 +5,17 @@ The code is the case study of McDonald fast food based on their customers gender
 It's use machine learning methods like
       
 `K means cluster`
+
 ` Elbow method `
+
+The used library are 
+
+`pandas`
+
+`numpy`
+
+`matplotlib`
+
+`bioinfokit`
+
+`seaborn`
